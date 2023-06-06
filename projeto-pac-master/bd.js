@@ -9,7 +9,7 @@ async function connect() {
         user: 'root', 
         password: '', 
         database: 'crud1' 
-        teste: 'teste'
+        hello
     }); 
     console.log('Conectou no MySQL!'); 
     global.connection = connection; 
